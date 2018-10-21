@@ -1,0 +1,21 @@
+#bg{
+    background-image:  url(/src/assets/image/background.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 830px;
+  color: rgb(12, 1, 1);
+}
+#position{
+    position: absolute; left:1215px; top:106px;
+    width:26%;
+}
+
+#username,#password,#firstname,#lastname,#id{
+    width:405px
+}
+#login{
+    margin-left:79%;
+     padding-top: 1%;
+     font-size: 16pt;
+ }

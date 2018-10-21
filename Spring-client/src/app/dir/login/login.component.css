@@ -1,0 +1,10 @@
+
+#position{
+    position: absolute; left:1215px; top:478px;
+    width:26%;
+    color: white;
+}
+#username,#password{
+    width:335px
+}
+

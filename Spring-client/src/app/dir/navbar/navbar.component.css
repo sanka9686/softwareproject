@@ -1,0 +1,19 @@
+#nav{
+    
+    font-size: 16pt;
+    position:fixed;
+    left:30% 
+}
+#nav1{
+    padding-top: 11px;
+    background-color:#08293cb4;
+    width:102%;
+    height:65px;
+   
+    position: fixed;
+
+}
+
+div a{
+    padding-right: 5px
+}

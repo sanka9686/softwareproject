@@ -1,0 +1,68 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+  background-image:  url(/src/assets/image/1235.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+  
+}
+nav a:visited, a:link{
+    color: #607D8B;
+}
+nav a:hover{
+    color:#039be5;
+    background-color: #CFD8DC;
+}
+nav a.active{
+    color:#039be5
+}
+nav a{
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 4px
+    
+}
+.z-depth-5 {
+    box-shadow: 0 16px 24px 8px rgba(0, 0, 0, 0.14), 0 6px 30px 5px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.3);
+      
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    background-color: #0090ff52;
+}
+.btn-primary{
+    width:25%;
+    margin-right: 24px;
+    background-color: #0090ff52;
+    border: none;
+}
+.form-control{
+    border: none;
+    border-radius: 5px;
+   
+}/*input field*/
+.input{
+    width:1368px;
+ background-color: transparent;
+ border-radius: 3px;
+ outline:none;
+ position: absolute;
+  left:282px;
+  padding-left: 13px;
+}
+.input2{
+    background-color: transparent;
+ border-radius: 3px;
+ outline:none;
+ position: absolute;
+  left:282px;
+  width:500px;
+  padding-left: 13px;
+}
+#login{
+    margin-left:79%;
+     padding-top: 1%;
+     font-size: 18pt;
+     position: fixed;
+     color:white; 
+ }
